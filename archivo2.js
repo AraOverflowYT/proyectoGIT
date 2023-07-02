@@ -1,1 +1,0 @@
-alert("soy el archivo2");
