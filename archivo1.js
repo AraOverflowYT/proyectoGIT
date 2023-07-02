@@ -1,1 +1,1 @@
-alert("eso es una lerta");
+alert("eso es una alerta");
