@@ -1,1 +1,2 @@
-alert("aquello es una alerta de prueba");
+alert("esto es una alerta de prueba");
+
